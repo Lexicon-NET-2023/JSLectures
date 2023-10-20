@@ -1,0 +1,13 @@
+.focus {
+    outline: 4px solid teal;
+}
+
+.blur {
+    outline: 4px solid red;
+}
+
+#square{
+    border:1px solid #333;
+    width: 255px;
+    height: 255px;
+}
